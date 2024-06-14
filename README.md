@@ -11,10 +11,10 @@ After increasing our skill set with the previous portfolios, it was time to tack
 
 ## Links to other Portfolios
 ### Portfolio 1
-https://github.com/MQ-COMP2200-COMP6200/practical-workshops-Nathaniel-Roberts/tree/main/Portfolios
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-1-And-Weekly-Practicals/tree/main/Portfolio
 
 ### Portfolio 2
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-2-Nathaniel-Roberts/tree/main
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-2
 
 ### Portfolio 3
-https://github.com/MQ-COMP2200-COMP6200/portfolio-part-3-Nathaniel-Roberts
+https://github.com/Nathaniel-Roberts/Data-Science-Portfolio-3
