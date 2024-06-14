@@ -1,6 +1,6 @@
 # Portfolio 4
 ## Data Analysis and Predicitive Modeling on Shopping Trends Dataset
-After increasing our skill set with the previous portfolios, it was time to tackle a task of our own. This invovled me tackling the following 7 questions that I created.
+After increasing our skill set with the previous portfolios, it was time to tackle a task of our own. This involved me tackling the following 7 questions that I created.
 1. What is the distribution of purchase amounts in different categories?
 2. How does the review rating distribution differ between males and females?
 3. How does the purchase amount correlate with the age of the customers?
